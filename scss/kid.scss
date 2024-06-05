@@ -217,7 +217,7 @@ body {
         display: inline-block;
         width: vw(53);
         height: vw(35.168);
-        background-image: url(/IMG/SVG/logo.svg);
+        background-image: url(../IMG/SVG/logo.svg);
         background-size: contain;
         background-repeat: no-repeat;
         color: #fff;
@@ -539,7 +539,7 @@ body {
         filter: invert(1);
         position: absolute;
         content: '';
-        background-image: url(/IMG/SVG/up.svg);
+        background-image: url(../IMG/SVG/up.svg);
         background-repeat: no-repeat;
         background-size: contain;
         width: vw(50);
@@ -561,7 +561,7 @@ body {
     &::before {
         position: absolute;
         content: '';
-        background-image: url(/IMG/SVG/up.svg);
+        background-image: url(../IMG/SVG/up.svg);
         filter:invert(1);
         background-repeat: no-repeat;
         background-size: contain;

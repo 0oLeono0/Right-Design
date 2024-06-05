@@ -213,7 +213,7 @@ h3 {
         display: inline-block;
         width: vw(53);
         height: vw(35.168);
-        background-image: url(/IMG/SVG/logo.svg);
+        background-image: url(../IMG/SVG/logo.svg);
         background-size: contain;
         background-repeat: no-repeat;
         color: #fff;
@@ -515,7 +515,7 @@ h3 {
     &::before {
         position: absolute;
         content: '';
-        background-image: url(/IMG/SVG/up.svg);
+        background-image: url(../IMG/SVG/up.svg);
         background-repeat: no-repeat;
         background-size: contain;
         width: vw(50);
@@ -536,7 +536,7 @@ h3 {
     &::before {
         position: absolute;
         content: '';
-        background-image: url(/IMG/SVG/up.svg);
+        background-image: url(../IMG/SVG/up.svg);
         background-repeat: no-repeat;
         background-size: contain;
         width: vmin(30);
